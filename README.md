@@ -1,16 +1,22 @@
-### Hi there 👋
+### Kowshikur Rahman
 
-<!--
-**HelloKowshik/HelloKowshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Dropout.By born a lazy person. Started programming in university level & found that I'm in a ocean!But I am trying my best & now it is become my hobby.I love backend development.My first languuage was C. But I had spend lot of time on Javascript & my relationship with JS is still running.Still a nobish.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/kowshikur-rahman-b6a1b387"
+
+[[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "//twitter.com/helloanik.me"
+
+### My Stacks
+...js
+{
+  "frontend": ["React"],
+  "backend": ["Node.js","php"]
+}
+...
