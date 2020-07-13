@@ -3,6 +3,7 @@
 CSE Dropout.By born a lazy person. Started programming in university level & found that I'm in a ocean!But I am trying my best & now it is become my hobby.I love backend development.My first languuage was C. But I had spend lot of time on Javascript & my relationship with JS is still running.Still a nobish.
 
 
+[![Facebook[ http://i.imgur.com/P3YfQoD.png]][http://www.facebook.com/helloanik.me]
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
